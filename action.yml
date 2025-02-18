@@ -17,7 +17,7 @@ inputs:
 
   ports:
     description: "Ports to scan for (default - Top 100)"
-    required: false
+    required: true
     default: ""
 
   output:
